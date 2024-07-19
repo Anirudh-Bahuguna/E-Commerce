@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-=======
 ## Complete E-commerce website in  Laravel 10
 
->>>>>>> 211d0c7dc152d15268f2b5d1e53cb10614b41fca
 #### Full tutorial :
 https://www.youtube.com/watch?v=FdAMucaks64&list=PLIFG3IUe1Zxo8Zvju3_kJJvoKSaIP_SC_&index=1&t=44s
 
