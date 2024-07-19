@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+## Complete E-commerce website in  Laravel 10
+
+>>>>>>> 211d0c7dc152d15268f2b5d1e53cb10614b41fca
 #### Full tutorial :
 https://www.youtube.com/watch?v=FdAMucaks64&list=PLIFG3IUe1Zxo8Zvju3_kJJvoKSaIP_SC_&index=1&t=44s
 
@@ -77,9 +82,17 @@ Many more....
   Contact me with any questions!<br>
 
   Email: bahugunanirudh1998@gmail.com
+  Email: anirudh,bahuguna@cynoteck.com
+<<<<<<< HEAD
   Whatsapp: +91-9149294139
 
 <hr>
   Copyright © 2024 [Anirudh Bahugua]
+=======
+  Whatsapp: +91 9149294139
+
+<hr>
+  Copyright © 2024 [Anirudh Bahuguna]
+>>>>>>> 211d0c7dc152d15268f2b5d1e53cb10614b41fca
   
 <p style="text-align:center">Thank You so much for your time !!!</p>
